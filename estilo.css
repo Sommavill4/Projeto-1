@@ -7,14 +7,14 @@
 }
 
 body{
-    background-color: rgb(99, 4, 4);
+    background-color: rgb(124, 4, 4);
     color: rgb(0, 0, 0);
     font-family: "IM Fell Great Primer SC", serif;
 
 }
 
 .cabecalho{
-    background-color: rgb(122, 6, 6);
+    background-color: rgb(97, 5, 5);
     text-align: center;
     padding: 15px;
     font-family: "New Rocker", system-ui;
