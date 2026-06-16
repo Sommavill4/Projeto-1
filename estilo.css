@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
+
 body{
     background-color: rgb(184, 224, 147);
     color: rgb(0, 0, 0)
@@ -7,4 +9,5 @@ body{
     background-color: rgb(226, 163, 231);
     text-align: center;
     padding: 15px;
+    font-family: "Ballet", cursive;
 }
