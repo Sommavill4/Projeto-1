@@ -2,3 +2,8 @@ body{
     background-color: rgb(184, 224, 147);
     color: rgb(203, 117, 206)
 }
+
+.cabecalho{
+    background-color: blueviolet;
+    text-align: center;
+}
