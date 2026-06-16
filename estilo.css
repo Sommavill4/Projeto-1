@@ -1,10 +1,10 @@
 body{
     background-color: rgb(184, 224, 147);
-    color: white
+    color: rgb(0, 0, 0)
 }
 
 .cabecalho{
-    background-color: rgb(224, 147, 220);
+    background-color: rgb(220, 173, 224);
     text-align: center;
     padding: 15px;
 }
