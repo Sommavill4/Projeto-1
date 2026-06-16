@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=New+Rocker&display=swap');
 
 body{
-    background-color: rgb(184, 224, 147);
+    background-color: rgb(160, 9, 9);
     color: rgb(0, 0, 0)
 }
 
 .cabecalho{
-    background-color: rgb(226, 163, 231);
+    background-color: rgb(206, 14, 14);
     text-align: center;
     padding: 15px;
     font-family: "Ballet", cursive;
