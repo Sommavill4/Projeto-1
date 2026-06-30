@@ -33,7 +33,7 @@ main{
 }
 article{
     display: flex;
-    background-color: black;
+    background-color: rgb(148, 6, 6);
     align-items: center;
     padding: 24px;
 }
