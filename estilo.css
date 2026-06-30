@@ -25,3 +25,9 @@ img{
     width: 220px;
     height: 220px;
 }
+main{
+    color: black;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
