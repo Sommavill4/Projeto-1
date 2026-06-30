@@ -31,3 +31,9 @@ main{
     margin: 0 auto;
     padding: 16px;
 }
+article{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    padding: 24px;
+}
