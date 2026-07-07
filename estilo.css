@@ -39,7 +39,8 @@ article{
 }
 button{
     background-color:white;
-    color: chocolate;
+    color: rgb(97, 3, 3);
     padding: 32px;
-    border: 20px
+    border: 20px; 
+    width: 90px;
 }
