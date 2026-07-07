@@ -17,13 +17,13 @@ body{
     background-color: rgb(0, 0, 0);
     color: rgb(97, 3, 3);
     text-align: center;
-    padding: 15px;
+    padding: px;
     font-family: "New Rocker", system-ui;
-    font-size: 30px;
+    font-size: px;
 }
 img{
-    width: 550px;
-    height: 220px;
+    width: 200px;
+    height: 210px;
 }
 main{
     color: black;
