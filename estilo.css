@@ -26,14 +26,20 @@ img{
     height: 210px;
 }
 main{
-    color: black;
+    color: rgb(97, 3, 3);
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
 }
 article{
     display: flex;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     align-items: center;
     padding: 24px;
+}
+button{
+    background-color:white;
+    color: chocolate;
+    padding: 32px;
+    border: 20px
 }
