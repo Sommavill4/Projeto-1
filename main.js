@@ -1,1 +1,2 @@
-alert("May i enter in your house?")
+const botoes = document.querySelectorAll("button")
+console.log(botoes)
