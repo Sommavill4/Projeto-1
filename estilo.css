@@ -17,9 +17,9 @@ body{
     background-color: rgb(0, 0, 0);
     color: rgb(97, 3, 3);
     text-align: center;
-    padding: px;
+    padding: 30px
     font-family: "New Rocker", system-ui;
-    font-size: px;
+    font-size: 26px;
 }
 img{
     width: 200px;
