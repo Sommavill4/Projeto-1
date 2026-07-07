@@ -38,6 +38,7 @@ article{
     padding: 24px;
 }
 button{
+    background-color: black;
     color: rgb(97, 3, 3);
     padding: 32px;
     border: 20px; 
